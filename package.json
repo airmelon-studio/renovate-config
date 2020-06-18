@@ -1,0 +1,28 @@
+{
+  "name": "@airmelon-studio/renovate-config",
+  "version": "0.0.0",
+  "description": "Preset config for renovate",
+  "main": "default.json",
+  "scripts": {
+    "format": "prettier --write \"*.json\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/airmelon-studio/renovate-config.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/airmelon-studio/renovate-config/issues"
+  },
+  "homepage": "https://github.com/airmelon-studio/renovate-config#readme",
+  "devDependencies": {
+    "eslint": "7.2.0",
+    "eslint-config-prettier": "6.11.0",
+    "eslint-plugin-prettier": "3.1.4",
+    "husky": "4.2.5",
+    "lint-staged": "10.2.11",
+    "prettier": "2.0.5",
+    "standard-version": "8.0.0"
+  }
+}
