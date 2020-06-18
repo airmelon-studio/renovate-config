@@ -1,6 +1,6 @@
 {
   "name": "@airmelon-studio/renovate-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Preset config for renovate",
   "main": "default.json",
   "scripts": {
@@ -32,7 +32,9 @@
   },
   "renovate-config": {
     "default": {
-      "extends": ["config:base"],
+      "extends": [
+        "config:base"
+      ],
       "stabilityDays": 3
     }
   },
