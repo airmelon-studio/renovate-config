@@ -5,12 +5,16 @@
   "main": "default.json",
   "scripts": {
     "format": "prettier --write \"*.json\"",
+    "release": "standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/airmelon-studio/renovate-config.git"
+    "url": "git+https://github.com/airmelon-studio/renovate-config.git"
   },
+  "keywords": [
+    "renovate-config"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/airmelon-studio/renovate-config/issues"
