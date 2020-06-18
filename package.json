@@ -4,6 +4,7 @@
   "description": "Preset config for renovate",
   "main": "default.json",
   "scripts": {
+    "lint": "eslint",
     "format": "prettier --write \"*.json\"",
     "release": "standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
