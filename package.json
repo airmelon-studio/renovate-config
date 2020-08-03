@@ -1,6 +1,6 @@
 {
   "name": "@airmelon-studio/renovate-config",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Preset config for renovate",
   "main": "default.json",
   "scripts": {
