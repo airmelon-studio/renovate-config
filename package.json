@@ -35,7 +35,7 @@
       "extends": [
         "config:base"
       ],
-      "stabilityDays": 3
+      "stabilityDays": 20
     }
   },
   "publishConfig": {
