@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.7](https://github.com/airmelon-studio/renovate-config/compare/v0.1.6...v0.1.7) (2021-02-17)
+
+
+### Bug Fixes
+
+* set stability days to 7 ([2eab2c2](https://github.com/airmelon-studio/renovate-config/commit/2eab2c2c1d1be1e685d307fce7a64da9fa28dae4))
+
 ### [0.1.6](https://github.com/airmelon-studio/renovate-config/compare/v0.1.5...v0.1.6) (2021-01-26)
 
 
