@@ -32,6 +32,7 @@
   },
   "renovate-config": {
     "default": {
+      "labels": ["dependencies"],
       "extends": [
         "config:base"
       ],
