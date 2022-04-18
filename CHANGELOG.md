@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.8](https://github.com/airmelon-studio/renovate-config/compare/v0.1.3...v0.1.8) (2022-04-18)
+
+
+### Bug Fixes
+
+* set stability days to 7 ([2eab2c2](https://github.com/airmelon-studio/renovate-config/commit/2eab2c2c1d1be1e685d307fce7a64da9fa28dae4))
+* update npmignore ([684f11f](https://github.com/airmelon-studio/renovate-config/commit/684f11fe070b6aae483dc4a2daa38220096f8ef6))
+
 ### [0.1.7](https://github.com/airmelon-studio/renovate-config/compare/v0.1.6...v0.1.7) (2021-02-17)
 
 
