@@ -378,6 +378,26 @@ commander@^9.4.1:
   resolved "https://registry.yarnpkg.com/commander/-/commander-9.4.1.tgz#d1dd8f2ce6faf93147295c0df13c7c21141cfbdd"
   integrity sha512-5EEkTNyHNGFPD2H+c/dXXfQZYa/scCKasxWcXJaWnNJ99pnQN9Vnmqow+p+PlFPE63Q6mThaZws1T+HxfpgtPw==
 
+commit-and-tag-version@9.5.0:
+  version "9.5.0"
+  resolved "https://registry.yarnpkg.com/commit-and-tag-version/-/commit-and-tag-version-9.5.0.tgz#34e7f47c6bd6336c1931e2b3e87de382ab84afb3"
+  integrity sha512-XpYAhoa87HfrVY2B9Rle3XbxFNI8eVusMF66H49oom2UNYAU0u5JbLL6x5MuCJw8wfac4KKpoJmUWCYuLHDdUw==
+  dependencies:
+    chalk "^2.4.2"
+    conventional-changelog "3.1.25"
+    conventional-changelog-config-spec "2.1.0"
+    conventional-changelog-conventionalcommits "4.6.3"
+    conventional-recommended-bump "6.1.0"
+    detect-indent "^6.0.0"
+    detect-newline "^3.1.0"
+    dotgitignore "^2.1.0"
+    figures "^3.1.0"
+    find-up "^5.0.0"
+    git-semver-tags "^4.0.0"
+    semver "^7.1.1"
+    stringify-package "^1.0.1"
+    yargs "^16.0.0"
+
 compare-func@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/compare-func/-/compare-func-2.0.0.tgz#fb65e75edbddfd2e568554e8b5b05fff7a51fcb3"
@@ -2236,26 +2256,6 @@ sprintf-js@~1.0.2:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/sprintf-js/-/sprintf-js-1.0.3.tgz#04e6926f662895354f3dd015203633b857297e2c"
   integrity sha1-BOaSb2YolTVPPdAVIDYzuFcpfiw=
-
-standard-version@9.5.0:
-  version "9.5.0"
-  resolved "https://registry.yarnpkg.com/standard-version/-/standard-version-9.5.0.tgz#851d6dcddf5320d5079601832aeb185dbf497949"
-  integrity sha512-3zWJ/mmZQsOaO+fOlsa0+QK90pwhNd042qEcw6hKFNoLFs7peGyvPffpEBbK/DSGPbyOvli0mUIFv5A4qTjh2Q==
-  dependencies:
-    chalk "^2.4.2"
-    conventional-changelog "3.1.25"
-    conventional-changelog-config-spec "2.1.0"
-    conventional-changelog-conventionalcommits "4.6.3"
-    conventional-recommended-bump "6.1.0"
-    detect-indent "^6.0.0"
-    detect-newline "^3.1.0"
-    dotgitignore "^2.1.0"
-    figures "^3.1.0"
-    find-up "^5.0.0"
-    git-semver-tags "^4.0.0"
-    semver "^7.1.1"
-    stringify-package "^1.0.1"
-    yargs "^16.0.0"
 
 string-argv@^0.3.1:
   version "0.3.1"
